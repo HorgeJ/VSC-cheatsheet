@@ -36,8 +36,33 @@ CTRL+F2
 ## Command Palette
 VS Code is equally accessible from the keyboard. The most important key combination to know is Ctrl+Shift+P, which brings up the Command Palette. From here, you have access to all of the functionality of VS Code, including keyboard shortcuts for the most common operations.
 
+Creating your own keybindings can be done by going to file -> prefrences -> keyboard shortcuts
+
 ```
 CTRL+SHIFT+P
+```
+
+* Opening all recently opened files can be done with:
+```
+CTRL+TAB
+```
+* Jump to certain line number
+```
+CTRL+G
+```
+* Find multiple instances of a variable
+```
+CTRL+SHIFTL
+```
+* Activating IntelliSense
+```
+CTRL+SPACE
+```
+* Cycle through available options
+```
+CTRL+SHIFT+. [cycles forward]
+
+CTRL+SHIFT+, [cycles backward]
 ```
 
 ## Side Bar
