@@ -118,4 +118,28 @@ would be transformed to
     </ul>
 </div>
 ```
+Create your own snippet by going to File -> Prefrences -> User Snippets
 
+Choose the language you want to add a snippet to
+
+```
+"multi line comment":{
+  "prefix":"multilinecomment",
+  "body":[
+    "<!-", "", "->"
+    ],
+    "description":"Multi line HTML comment"
+},
+```
+
+## Markdown
+Markdown can be used to automate our HTML 
+
+Previewing a markdown fil can be done with:
+```
+CTRL+SHIFT+V
+```
+
+Turn a .md file into HTLM by utilizing a tasks.json file, opening up the options pallete and choosing configure task runner
+
+gulp and gulp-markdown allow gulp task runner to run tasks that convert .md files to compiled HTML, also acts as a file watcher and automatically compiles markdown to HTML
