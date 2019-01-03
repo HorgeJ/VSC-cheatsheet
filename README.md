@@ -1,7 +1,7 @@
 # VSC-cheatsheet
 Some helpful commands and shortcuts for VSCODE
 
-All key bindings can be found (here)[https://code.visualstudio.com/docs/getstarted/keybindings].
+All key bindings can be found [here](https://code.visualstudio.com/docs/getstarted/keybindings).
 
 ### Features 
 
@@ -35,8 +35,6 @@ CTRL+F2
 ```
 ## Command Palette
 VS Code is equally accessible from the keyboard. The most important key combination to know is Ctrl+Shift+P, which brings up the Command Palette. From here, you have access to all of the functionality of VS Code, including keyboard shortcuts for the most common operations.
-
-
 
 ```
 CTRL+SHIFT+P
