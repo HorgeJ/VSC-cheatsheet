@@ -1,4 +1,7 @@
 # VSC-cheatsheet
+Some helpful commands and shortcuts for VSCODE
+
+All key bindings can be found (here)[https://code.visualstudio.com/docs/getstarted/keybindings].
 
 ### Features 
 
@@ -30,9 +33,10 @@ The Find and Replace control appears in the upper right corner of the code edito
 ```
 CTRL+F2
 ```
-
 ## Command Palette
 VS Code is equally accessible from the keyboard. The most important key combination to know is Ctrl+Shift+P, which brings up the Command Palette. From here, you have access to all of the functionality of VS Code, including keyboard shortcuts for the most common operations.
+
+
 
 ```
 CTRL+SHIFT+P
@@ -53,4 +57,18 @@ CTRL+ENTER
 ```
 
 ## Searching Accross Files
+For a specific word or phrase.
+
+Will search accross all files and folders you have on VS
+
+```
+CTRL+SHIFT+F
+```
+**Regular expression searching
+
+ex: Searching for projects that start with A and are C#
+```
+[A]*\.csproj
+```
+
 
