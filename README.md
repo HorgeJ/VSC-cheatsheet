@@ -38,3 +38,19 @@ VS Code is equally accessible from the keyboard. The most important key combinat
 CTRL+SHIFT+P
 ```
 
+## Side Bar
+Toggle side bar on and off
+
+```
+CTRL+D
+```
+
+## Side by Side Editing
+You can open as many editors as you like side by side vertically and horizontally. If you already have one editor open, there are multiple ways of opening another editor to the side of the existing one
+
+```
+CTRL+ENTER
+```
+
+## Searching Accross Files
+
