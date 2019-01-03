@@ -143,3 +143,6 @@ CTRL+SHIFT+V
 Turn a .md file into HTLM by utilizing a tasks.json file, opening up the options pallete and choosing configure task runner
 
 gulp and gulp-markdown allow gulp task runner to run tasks that convert .md files to compiled HTML, also acts as a file watcher and automatically compiles markdown to HTML
+
+
+## Tasks
